@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Akhilesh Prasad</title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Projects on Akhilesh Prasad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 08:12:28 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncertainty Analysis in Heat Transfer in a Plate Type Heat Exchanger</title>
+      <link>//localhost:1313/projects/heat-exchanger-uncertainty-analysis/</link>
+      <pubDate>Wed, 03 Jul 2024 08:12:28 +0530</pubDate>
+      <guid>//localhost:1313/projects/heat-exchanger-uncertainty-analysis/</guid>
+      <description>We all have performed Physics experiments in schools or universities. Among these experiments one of the experiments would be just to confirm an established physical law. For performing this, we would record the observations and substitute these values into a mathematical equation. And I am pretty sure that none of us have ever recorded the data that verfies the law &amp;ldquo;exactly&amp;rdquo;. There is always some difference between the LHS and RHS, i.</description>
+    </item>
+  </channel>
+</rss>
