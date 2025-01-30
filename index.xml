@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Akhilesh Prasad</title>
-    <link>http://localhost:1313/</link>
+    <link>https://prasad-akhilesh.github.io/</link>
     <description>Recent content on Akhilesh Prasad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Jul 2024 23:16:31 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://prasad-akhilesh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantification and Propagation of Experimental Uncertainty</title>
-      <link>http://localhost:1313/blogs/quantification_propagation_uncertainty/</link>
+      <link>https://prasad-akhilesh.github.io/blogs/quantification_propagation_uncertainty/</link>
       <pubDate>Tue, 09 Jul 2024 23:16:31 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/quantification_propagation_uncertainty/</guid>
+      <guid>https://prasad-akhilesh.github.io/blogs/quantification_propagation_uncertainty/</guid>
       <description></description>
     </item>
     <item>
       <title>Why (n-1) makes the sample standard deviation an unbiased estimator of population standard deviation?</title>
-      <link>http://localhost:1313/blogs/standard_dev_estimator/</link>
+      <link>https://prasad-akhilesh.github.io/blogs/standard_dev_estimator/</link>
       <pubDate>Wed, 03 Jul 2024 09:36:51 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/standard_dev_estimator/</guid>
+      <guid>https://prasad-akhilesh.github.io/blogs/standard_dev_estimator/</guid>
       <description>Standard Deviation In statistics, the standard deviation is a measure of the amount of variation of a random variable expected about its mean.[1] A low standard deviation indicates that the values tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the values are spread out over a wider range. The standard deviation is commonly used in the determination of what constitutes an outlier and what does not.</description>
     </item>
     <item>
       <title>Uncertainty Analysis in Heat Transfer in a Plate Type Heat Exchanger</title>
-      <link>http://localhost:1313/projects/heat-exchanger-uncertainty-analysis/</link>
+      <link>https://prasad-akhilesh.github.io/projects/heat-exchanger-uncertainty-analysis/</link>
       <pubDate>Wed, 03 Jul 2024 08:12:28 +0530</pubDate>
-      <guid>http://localhost:1313/projects/heat-exchanger-uncertainty-analysis/</guid>
+      <guid>https://prasad-akhilesh.github.io/projects/heat-exchanger-uncertainty-analysis/</guid>
       <description>We all have performed Physics experiments in schools or universities. Among these experiments one of the experiments would be just to confirm an established physical law. For performing this, we would record the observations and substitute these values into a mathematical equation. And I am pretty sure that none of us have ever recorded the data that verfies the law &amp;ldquo;exactly&amp;rdquo;. There is always some difference between the LHS and RHS, i.</description>
     </item>
     <item>
       <title>Industry 5.0 - A Vision for Future of Manufacturing</title>
-      <link>http://localhost:1313/blogs/industry5/</link>
+      <link>https://prasad-akhilesh.github.io/blogs/industry5/</link>
       <pubDate>Sat, 02 Mar 2024 20:40:09 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/industry5/</guid>
+      <guid>https://prasad-akhilesh.github.io/blogs/industry5/</guid>
       <description></description>
     </item>
   </channel>
