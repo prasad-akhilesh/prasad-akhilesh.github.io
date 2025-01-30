@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-09T23:16:31+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2024-07-09T23:16:31+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/quantification_propagation_uncertainty/</loc>
+    <loc>http://localhost:1313/blogs/quantification_propagation_uncertainty/</loc>
     <lastmod>2024-07-09T23:16:31+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/standard_dev_estimator/</loc>
+    <loc>http://localhost:1313/blogs/standard_dev_estimator/</loc>
     <lastmod>2024-07-03T09:36:51+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-07-03T08:12:28+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/heat-exchanger-uncertainty-analysis/</loc>
+    <loc>http://localhost:1313/projects/heat-exchanger-uncertainty-analysis/</loc>
     <lastmod>2024-07-03T08:12:28+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/industry5/</loc>
+    <loc>http://localhost:1313/blogs/industry5/</loc>
     <lastmod>2024-03-02T20:40:09+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
